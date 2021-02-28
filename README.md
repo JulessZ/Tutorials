@@ -8,8 +8,8 @@ This repo is made for tutorials you can find different sections as
 
 ## How it works
 
-The tutorials are all interconected. The gole of this interconection is to visualize how diferent components as stand alown can interact with others. 
+The tutorials are all interconnected. The goal of this interconnection is to visualize how different components as stand-alone can interact with others. 
 
-the main idea is to cover que diferent parts and to create your own little ecosystem and to grow over him.
+the main idea is to cover the different parts and to create your little ecosystem and grow over him.
 
 
