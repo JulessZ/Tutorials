@@ -56,7 +56,7 @@ Tagging a container make's it easy to name and to version a container
 
 
 # Volumenes
-An Volumen is an link between the real world and the dockers world. See it as the portal of TRON. It's the method to get data into the container and tor it there.
+An Volumen is an link between the real world and the dockers world. See it as the portal of TRON. It's the method to get data into the container and store it there.
 
 ``
 
@@ -93,10 +93,6 @@ to see recent builded docker files.
 `docker ls | head`
 
 
-
-
-
-
-
 # Docker-Compose
+
 
