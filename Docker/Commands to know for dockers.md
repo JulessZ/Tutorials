@@ -96,3 +96,34 @@ to see recent builded docker files.
 # Docker-Compose
 
 
+# Start Stop Delete Container
+
+## Stop
+`docker stop [Container_ID]`
+
+### Stop all
+
+`docker stop $(docker ps -a -q)`
+
+## Delete container
+
+`docker rm [Container_ID]`
+
+### Delete all
+
+`docker rm $(docker ps -a -q)`
+
+## Delete image
+
+`docker rmi [Image_ID]`
+
+### Delete all
+
+`docker rmi $(docker images -q)`
+
+
+
+
+
+
+
